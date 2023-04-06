@@ -5,7 +5,7 @@
 }
 
 .container{
-    width:360px;
+    max-width:360px;
     margin:60px auto;
  
 }
